@@ -1,15 +1,12 @@
 ---
-title:   Use the Current Stable Version (5.0)
+title:   از نسخه 5.1 که پایدار و دارای پشتیانی بلند مدت است استفاده کنید
 isChild: true
 anchor:  use_the_current_stable_version
 ---
 
-## Use the Current Stable Version (5.0) {#use_the_current_stable_version_title}
-
-If you are getting started with Laravel, start with the current stable release of [Laravel 5.0][laravel-release]. Laravel has added 
-powerful [new features](#framework_highlights) over the last few years. Though the incremental version number difference 
-between 4.0 and 4.2 is small, it represents _major_ improvements. If you are looking for a function or its usage, the 
-documentation on the [laravel.com/docs][laravel-docs] website will have the answer.
-
+## از نسخه 5.1 که پایدار و دارای پشتیانی بلند مدت است استفاده کنید {#use_the_current_stable_version_title}
+اگر مایل به شروع کار با لاراول هستید از نسخه کنونی (5.1) که دارای پشتیبانی بلندمدت است استفاده کنید.[Laravel 5.1][laravel-release]
+لاراول در چندسال اخیر [ویژگی‌ها و امکانات قدرتمندی ](#framework_highlights) را اضافه کرده، اگر چه این افزایش شماره نسخه بین 4.0 و 4.2  یا 5.0 و 5.1 کم است، ولی نشانگر تغییرات و بهبودهای اساسی در این فریمورک است.
+اگر به دنبال اطلاعات بیشتر در مورد نحوه کارکرد و استفاده از توابع و کتابخانه‌های لاراول هستید، می‌توانید به [مستندات رسمی لاراول][laravel-docs]، مراجعه نمایید.
 [laravel-release]: https://packagist.org/packages/laravel/laravel
 [laravel-docs]: http://laravel.com/docs

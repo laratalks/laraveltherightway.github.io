@@ -1,6 +1,6 @@
 ---
-anchor: getting_started
+anchor: شروع کار با لاراول
 ---
 
-# Getting Started {#getting_started_title}
+# شروع کار با لاراول {#getting_started_title}
 
